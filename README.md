@@ -1,13 +1,151 @@
-1. Goal and Aim 
+Kuhle’s Green Patch – Organic Farm Website
+
+ Project Description
+
+This website was created as part of my Web Development POE.
+Its purpose is to showcase an organic farm brand, provide product information, allow customers to make enquiries, and offer a clean, responsive user experience across all devices.
+
+The website includes:
+• A responsive navigation bar with a hamburger menu
+• A homepage with hero images and product highlights
+• Shop, About, Contact and Product pages
+• Image gallery with lightbox
+• Interactive Google Map
+• Dynamic JavaScript features
+• Form validation using JavaScript
+• A working contact form (email recipient processing)
+• Search feature
+• SEO optimisation (titles, descriptions, keywords)
+
+
+
+📌 Website Structure (File Overview)
+
+File
+Purpose
+index.html
+Homepage with hero section, introduction, features, product highlights
+shop.html
+Displays all available products
+about.html
+Brand background, story and mission
+
+Features Implemented
+
+✔ 1. Responsive Navigation & Hamburger Menu
+• Works on small, medium, and large screens
+• Toggles open and close using JavaScript
+• Navigation becomes vertical on mobile
+
+✔ 2. Interactive Elements (JavaScript)
+
+Included as required in POE checklist:
+• Hamburger menu
+• Filter panel
+• Search feature
+• Lightbox gallery
+• Input validation for forms
+• Dynamic year auto-update
+• Modal windows (if included)
+
+✔ 3. Interactive Google Map
+• Embedded using Google Maps iFrame or Maps API
+• Shows farm location
+• Fully responsive
+
+✔ 4. Gallery Lightbox
+• Clicking an image opens a full-size version
+• Dark overlay
+• Close button
+• Smooth fade animation
+
+✔ 5. Dynamic (Real-Time) Content
+
+Examples include:
+• Current year auto-updates in footer
+• Auto-fill date in enquiry page
+• Auto fade-in animations
+• JavaScript-controlled filters
+
+✔ 6. Search Feature
+• Basic keyword search
+• Shows results instantly
+• Works on “Shop” page
+
+✔ 7. Forms (Enquiry & Contact)
+• JavaScript input validation
+• Highlights errors
+• Displays success message
+• Contact form includes email handling (depending on the setup)
+
+✔ 8. SEO (Search Engine Optimisation)
+
+Every page includes:
+• Correct <title> tags
+• Meta description
+• Meta keywords
+• Alt text on images
+• Clean URL naming
+• Mobile-friendly viewport tag
+
+
+
+GitHub Version Control
+
+The repository includes:
+• Multiple commits
+• Clear commit messages (e.g. “Added lightbox JS”, “Updated contact validation”)
+• Folder structure maintained
+• README and Changelog included
+
+
+
+ Changelog (Development Progress)
+
+Example entries — you can modify based on your actual progress:
+
+Week 1
+• Planned website layout
+• Created wireframes
+• Set up basic folder structure
+
+Week 2
+• Coded homepage structure
+• Added hero section & navigation bar
+
+Week 3
+• Implemented CSS styling
+• Added responsive design elements
+• Created product section
+
+Week 4
+• Added JavaScript hamburger menu
+• Implemented gallery lightbox
+
+Week 5
+• Added search bar and filtering
+• Wrote JavaScript for validation
+• Added Google Map
+
+Week 6
+• Completed SEO improvements
+• Final testing and debugging
+• Completed ReadMe & documentation1. 
+Goal and Aim 
+
 Kuhle’s Dairy Patch aims to connect with customers online by creating a simple, easy-to
 use website to showcase our dairy products and services. Our goal is to make it easier for 
 customers to learn about our products, place orders, and connect with us. 
+
 2. Objectives 
+
 Build a customers-friendly subscription system allowing users to pause, change ,cancel 
 weekly milk deliveries with ease. Introduce a secure and efficient e-commerce checkout 
 compatible with major payment method however the farm’s ethical and sustainable 
-farming methods to inspire customers loyalty and trust.  
+farming methods to inspire customers loyalty and trust. 
+
 3. Current Analysis  Currently, Kuhles’s Dairy Patch relies on word-of-mouth and local 
+
 sales. We do not have an online presence, which limits our ability to reach a wider 
 audience. Customers often have to visit physically to inquire about products. By creating 
 a website, we can reach more people, provide up-to-date information, and improve 
@@ -16,8 +154,10 @@ Problem : many customers lack access to fresh, ethically sourced dairy and they 
 from where their food comes from while supermarkets are convenient , they offer little 
 insight into the quality and origin of their products.  
 Target audience: Everyone  who likes fresh dairy products. Children and Adults , 
-health- conscious families , supermarkets and small shops. 
+health- conscious families , supermarkets and small shops.
+
 4. Proposed Website Features and Functionality - Homepage with brand story and featured products - Products page with descriptions and prices - Contact page with form and location - Blog for updates and tips - Mobile-friendly design 
+
 5. Design Aesthetic 
 The design will be clean, fresh, and inspired by dairy farm life. Soft white and green 
 tones will be used to reflect freshness and nature. 
@@ -154,35 +294,38 @@ Budget (Total R5,497)
 • SSL (security): Free 
 10  
 File structure/ folder structure 
-YOUTHRISE SA 
-├── index.html # Home page 
-├── success stories.html # About page 
-├── our programs.html # Blog page 
-├── contact.html # Contact page 
-├── FAQ’s.html #FAQ’s page 
-│ 
-├── CSS/ 
-│ ├── style.css # Main stylesheet 
-│ └── responsive.css # Responsive styling 
-│ 
-├── js/ 
-│ ├── main.js # Main JavaScript file 
-│ └── form-validation.js # Contact form validation 
-│ 
-├── _images/ 
-│ ├── logo.png 
-│ ├── hero-banner.jpg 
-│ ├── donation gallery/ 
-│ │ ├── volunteer.jpg 
-│ │ ├── donors.jpg 
-│ │ └── workers.jpg 
-│ └── blog-thumbnails/ 
-│ 
-├── fonts/ 
-│ 
-├── data/ 
-│ └── blog-posts.json             
-│ 
-└── README.md                     
-# Example blog content 
-# Project overview 
+YOUTHRISE SA
+
+
+
+                        ├── index.html # Home page 
+                        ├── success stories.html # About page 
+                        ├── our programs.html # Blog page 
+                        ├── contact.html # Contact page 
+                        ├── FAQ’s.html #FAQ’s page 
+                        │ 
+                        ├── CSS/ 
+                        │ ├── style.css # Main stylesheet 
+                        │ └── responsive.css # Responsive styling 
+                        │ 
+                        ├── js/ 
+                        │ ├── main.js # Main JavaScript file 
+                        │ └── form-validation.js # Contact form validation 
+                        │ 
+                        ├── _images/ 
+                        │ ├── logo.png 
+                        │ ├── hero-banner.jpg 
+                        │ ├── donation gallery/ 
+                        │ │ ├── volunteer.jpg 
+                        │ │ ├── donors.jpg 
+                        │ │ └── workers.jpg 
+                        │ └── blog-thumbnails/ 
+                        │ 
+                        ├── fonts/ 
+                        │ 
+                        ├── data/ 
+                        │ └── blog-posts.json             
+                        │ 
+                        └── README.md                     
+
+
