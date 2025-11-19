@@ -36,63 +36,63 @@ Features Implemented
 ✔ 2. Interactive Elements (JavaScript)
 
 Included as required in POE checklist:
-• Hamburger menu
-• Filter panel
-• Search feature
-• Lightbox gallery
-• Input validation for forms
-• Dynamic year auto-update
-• Modal windows (if included)
+                • Hamburger menu
+                • Filter panel
+                • Search feature
+                • Lightbox gallery
+                • Input validation for forms
+                • Dynamic year auto-update
+                • Modal windows (if included)
 
 ✔ 3. Interactive Google Map
-• Embedded using Google Maps iFrame or Maps API
-• Shows farm location
-• Fully responsive
+             • Embedded using Google Maps iFrame or Maps API
+             • Shows farm location
+             • Fully responsive
 
 ✔ 4. Gallery Lightbox
-• Clicking an image opens a full-size version
-• Dark overlay
-• Close button
-• Smooth fade animation
+                • Clicking an image opens a full-size version
+                • Dark overlay
+                • Close button
+                • Smooth fade animation
 
 ✔ 5. Dynamic (Real-Time) Content
 
 Examples include:
-• Current year auto-updates in footer
-• Auto-fill date in enquiry page
-• Auto fade-in animations
-• JavaScript-controlled filters
+                  • Current year auto-updates in footer
+                  • Auto-fill date in enquiry page
+                  • Auto fade-in animations
+                  • JavaScript-controlled filters
 
 ✔ 6. Search Feature
-• Basic keyword search
-• Shows results instantly
-• Works on “Shop” page
+                 • Basic keyword search
+                 • Shows results instantly
+                 • Works on “Shop” page
 
 ✔ 7. Forms (Enquiry & Contact)
-• JavaScript input validation
-• Highlights errors
-• Displays success message
+                • JavaScript input validation
+                • Highlights errors
+                • Displays success message
 • Contact form includes email handling (depending on the setup)
 
 ✔ 8. SEO (Search Engine Optimisation)
 
 Every page includes:
-• Correct <title> tags
-• Meta description
-• Meta keywords
-• Alt text on images
-• Clean URL naming
-• Mobile-friendly viewport tag
+                       • Correct <title> tags
+                       • Meta description
+                       • Meta keywords
+                       • Alt text on images
+                       • Clean URL naming
+                       • Mobile-friendly viewport tag
 
 
 
 GitHub Version Control
 
 The repository includes:
-• Multiple commits
-• Clear commit messages (e.g. “Added lightbox JS”, “Updated contact validation”)
-• Folder structure maintained
-• README and Changelog included
+                  • Multiple commits
+                  • Clear commit messages (e.g. “Added lightbox JS”, “Updated contact validation”)
+                  • Folder structure maintained
+                  • README and Changelog included
 
 
 
