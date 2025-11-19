@@ -19,16 +19,12 @@ The website includes:
 
 
 
-📌 Website Structure (File Overview)
+Website Structure (File Overview)
 
-File
-Purpose
-index.html
-Homepage with hero section, introduction, features, product highlights
-shop.html
-Displays all available products
-about.html
-Brand background, story and mission
+File                 Purpose
+index.html           Homepage with hero section, introduction, features, product highlights
+shop.html            Displays all available products
+about.html           Brand background, story and mission
 
 Features Implemented
 
